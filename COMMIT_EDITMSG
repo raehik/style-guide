@@ -1,0 +1,19 @@
+Header - succint overview of main changes (what)
+
+Body -- describe all *what*, plus explain why those changes were made.
+
+Header should:
+    - be <= 50 chars long
+        - any more is cropped (word?) by GitHub
+    - start with a capital letter
+        - I always used to use no caps, but it the other way seems more
+          common
+    - not have any punctuation
+        - uses precious chars
+
+Body should:
+    - describe all *what* in detail
+    - explain as much as possible (why did the change need to be made?)
+    - use proper English, mostly
+        - caps, punctuation, etc. though not really as fussy in the
+          body!
